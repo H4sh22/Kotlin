@@ -21,8 +21,8 @@ class MainActivity : ComponentActivity() {
             NingthPracKotlinTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     StudentInfo(
-                        fullName = "Савин Андрей Сергеевич",
-                        groupNumber = "Группа ИКБО-07-22",
+                        fullName = "Журило Михаил Алексеевич",
+                        groupNumber = "Группа ИКБО-12-22",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
